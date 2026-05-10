@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "gallery-1",
+      "description": "Fun times together",
+      "imageUrl": "https://images.unsplash.com/photo-1607453998825-f3f36da5ab18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmllbmRzJTIwc21pbGluZ3xlbnwwfHx8fDE3NzA4MzM3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends smiling"
+    },
+    {
+      "id": "gallery-2",
+      "description": "A beautiful memory",
+      "imageUrl": "https://images.unsplash.com/photo-1610552050890-fe99536c2615?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuYXR1cmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzcwODI5NDg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature landscape"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Celebrating life",
+      "imageUrl": "https://images.unsplash.com/photo-1649019182102-dea1e156d94f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXJ0eSUyMGNlbGVicmF0aW9ufGVufDB8fHx8MTc3MDgyODMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "party celebration"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Adventures and explorations",
+      "imageUrl": "https://images.unsplash.com/photo-1639973549208-c505b7cfb4f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmF2ZWwlMjBhZHZlbnR1cmV8ZW58MHx8fHwxNzcwNzQ5NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel adventure"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Always laughing",
+      "imageUrl": "https://images.unsplash.com/photo-1625283518288-00362afc8663?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwbGF1Z2hpbmd8ZW58MHx8fHwxNzcwODE3MTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends laughing"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Cheers to many more",
+      "imageUrl": "https://images.unsplash.com/photo-1628336707631-68131ca720c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmllbmRzJTIwdG9hc3R8ZW58MHx8fHwxNzcwODMzNzUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends toast"
+    }
+  ]
+}
